@@ -48,4 +48,3 @@
 - Kelurahan
 - Jalur Pendaftaran
 - Formulir Pendaftaran
-- 

@@ -1,0 +1,10 @@
+models:
+  ModelName:
+    softDelete: true
+    relationships:
+      belongsTo:
+      belongsToMany:
+      hasOne:
+      hasMany:
+
+
