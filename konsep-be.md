@@ -20,3 +20,32 @@
 
 # Integration
 - Whatsapp Gateway Notification
+
+# MODELS
+- Instansi
+- User
+- Jabatan
+- Mata Pelajaran
+- Jadwal Pelajaran
+- Jadwal Presensi
+- Jadwal Sholat
+- Blog
+- Pages
+- Tahun Pelajaran
+- Tahun Pendaftaran
+- Tahun Anggaran
+- Jurusan
+- Kelas
+- Rombel
+- Guru Kelas
+- Guru Mata Pelajaran
+- Siswa
+- Presensi Sekolah
+- Presensi Sholat
+- Provinsi
+- Kabupaten
+- Kota
+- Kelurahan
+- Jalur Pendaftaran
+- Formulir Pendaftaran
+- 
